@@ -2,7 +2,7 @@
 
 ### Frontend Developer | Open Source Enthusiast | Tech Explorer
 
-Welcome to my GitHub profile! I'm passionate about building innovative solutions and contributing to meaningful projects. My journey revolves around full-stack development, where I enjoy both crafting beautiful user interfaces and architecting robust backend systems.
+Welcome to my GitHub profile! I'm passionate about building innovative solutions and contributing to meaningful projects. 
 
 ## 🛠️ Technologies & Tools
 
