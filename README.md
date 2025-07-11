@@ -1,7 +1,5 @@
 # 👋 Hello, I'm Sai Amirthesh! 
 
-### Frontend Developer | Open Source Enthusiast | Tech Explorer
-
 Welcome to my GitHub profile! I'm passionate about building innovative solutions and contributing to meaningful projects. 
 
 ## 🛠️ Technologies & Tools
