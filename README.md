@@ -12,19 +12,6 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 
-
-## 🌱 What I'm Currently Learning
-I'm currently working through:
-- The Odin Project curriculum
-- FreeCodeCamp's Node.js/Express courses
-- Flutter documentation and cookbook
-
-## 🌱 What I'm Building
-- React projects to master component architecture and hooks
-- Node.js applications to understand backend development
-- Flutter apps to explore cross-platform mobile development
-- Full-stack projects combining these technologies
-
 ## 📫 Let's Connect!
 I'm always open to interesting discussions, collaborations, or just chatting about tech!
 
