@@ -2,7 +2,7 @@ Hello, I'm Sai Amirthesh!
 
 Welcome to my GitHub profile! I'm passionate about building innovative solutions and contributing to meaningful projects.
 
-Technologies & Tools
+## Technologies & Tools
 
 Programming Languages
 
@@ -62,6 +62,15 @@ Tools & Platforms
   <img width="12" /> 
 </div>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SaiAmirthesh&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SaiAmirthesh&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiAmirthesh&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SaiAmirthesh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
 📫 Let's Connect!
 
 I'm always open to interesting discussions, collaborations, or just chatting about tech!
@@ -70,6 +79,11 @@ I'm always open to interesting discussions, collaborations, or just chatting abo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SaiAmirthesh) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCpAVlavNCxVt1JHvCMxw0yA) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saiamirthesh8419@gmail.com)
+
+---
+[![](https://visitcount.itsvg.in/api?id=SaiAmirthesh&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ⭐️ From SaiAmirthesh
 
