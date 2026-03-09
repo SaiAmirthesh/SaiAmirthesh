@@ -62,13 +62,19 @@ Tools & Platforms
   <img width="12" /> 
 </div>
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SaiAmirthesh&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SaiAmirthesh&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiAmirthesh&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-📫 Let's Connect!
+# Leetcode Stats:
+
+![](https://leetcard.jacoblin.cool/SaiAmirthesh?ext=heatmap)
+
+
+
+# Let's Connect!
 
 I'm always open to interesting discussions, collaborations, or just chatting about tech!
 
