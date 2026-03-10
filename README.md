@@ -68,12 +68,6 @@ Tools & Platforms
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiAmirthesh&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-# Leetcode Stats:
-
-![](https://leetcard.jacoblin.cool/SaiAmirthesh?ext=heatmap)
-
-
-
 # Let's Connect!
 
 I'm always open to interesting discussions, collaborations, or just chatting about tech!
