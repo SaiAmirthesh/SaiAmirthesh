@@ -149,10 +149,8 @@ public class SaiAmirthesh {
 
 I'm passionate about discussing architecture decisions, learning from others, and building amazing things together!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/SaiAmirthesh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](www.linkedin.com/in/sai-amirthesh)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/SaiAmirthesh)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/Sai4mirthesh)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge)](https://youtube.com/@UCpAVlavNCxVt1JHvCMxw0yA)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:saiamirthesh8419@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA500?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/u/SaiAmirthesh/)
 
