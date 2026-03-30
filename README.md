@@ -23,9 +23,7 @@ public class SaiAmirthesh {
 
 - 🏗️ **Enterprise Backend Development** with Spring Boot & Spring Cloud
 - 🤖 **AI-Powered Microservices** leveraging LLMs and RAG patterns
-- 📐 **System Design & Architecture** for distributed systems
 - ⚙️ **Microservices Orchestration** using Docker & Kubernetes concepts
-- 🧪 **Test-Driven Development** with JUnit 5 & Testcontainers
 - 💾 **Database Design & Optimization** (PostgreSQL, MySQL, NoSQL)
 - 🔐 **Security & Authentication** (Spring Security, JWT, OAuth2)
 
@@ -33,33 +31,33 @@ public class SaiAmirthesh {
 
 # 🌟 Featured Projects
 
-### 1. **AuditChain** 📊
+### 1. **AuditChain** 
 **Blockchain-based Audit & Compliance System**
-- **Stack**: Java, Spring Boot, Blockchain, PostgreSQL
+- **Stack**: Java, Spring Boot, Hashchain,Cryptography , PostgreSQL
 - **Features**: Immutable audit trails, compliance tracking, real-time monitoring
 - **Impact**: Enterprise-ready solution for regulatory compliance
-- **What I learned**: Blockchain integration, distributed ledger concepts, audit system architecture
+- **What I learned**: distributed ledger concepts, audit system architecture
 - **Repository**: [AuditChain](https://github.com/SaiAmirthesh/AuditChain)
 
-### 2. **Looped** 🎮
+### 2. **Looped** 
 **Gamified Habit Tracker Application**
-- **Stack**: Spring Boot, React, MongoDB, JWT Authentication
+- **Stack**: Spring Boot, React, SupaBase, JWT Authentication
 - **Features**: Habit tracking with gamification, user streaks, progress analytics, social features
 - **Architecture**: Microservices-ready backend, RESTful APIs, real-time notifications
 - **What I learned**: Full-stack development, user engagement patterns, database design for analytics
 - **Repository**: [Looped](https://github.com/SaiAmirthesh/Looped)
 
-### 3. **Draftly** ✉️
+### 3. **Draftly** 
 **AI-Powered Professional Email Generator**
-- **Stack**: Spring Boot, LangChain, OpenAI API, React
+- **Stack**: LangChain, Gemini API, React
 - **Features**: AI-driven email composition, tone customization, template management, batch generation
 - **Performance**: Sub-second email generation with caching strategies
 - **What I learned**: LLM integration, prompt engineering, RAG patterns, API optimization
 - **Repository**: [Draftly](https://github.com/SaiAmirthesh/Draftly)
 
-### 4. **ChatPDF** 📄
+### 4. **ChatPDF** 
 **Intelligent PDF Interaction System**
-- **Stack**: Spring Boot, Vector Databases, LLMs, React
+- **Stack**: Python, Vector Databases, LLMs, React
 - **Features**: PDF parsing, semantic search, conversational Q&A, document analysis
 - **Tech Highlights**: RAG implementation, vector embeddings, context-aware responses
 - **What I learned**: PDF processing, vector databases, LLM prompt optimization, chunking strategies
@@ -135,23 +133,6 @@ public class SaiAmirthesh {
 
 ---
 
-# 🏛️ Backend Engineering Excellence
-
-```
-┌────────────────────────────────────────────────────────────┐
-│  PRINCIPLES I LIVE BY                                      │
-├────────────────────────────────────────────────────────────┤
-│  ✨ Clean, Maintainable Code                               │
-│  🏗️  SOLID Principles & Design Patterns                    │
-│  🧪 Test-Driven Development (TDD)                          │
-│  📊 Domain-Driven Design (DDD)                             │
-│  ⚡ Performance & Optimization First                       │
-│  🔐 Security by Design                                     │
-│  📈 Scalability & High Availability                        │
-│  📚 Self-Documenting Code with Clear Abstractions         │
-└────────────────────────────────────────────────────────────┘
-```
-
 ### What Drives My Engineering:
 
 🎯 **Correctness Over Cleverness**
@@ -163,18 +144,6 @@ public class SaiAmirthesh {
 - Design systems that scale horizontally
 - Think about failure modes before writing code
 - Embrace immutability and functional programming where applicable
-
-🧪 **Quality Through Testing**
-- Unit tests with >85% coverage
-- Integration tests for critical flows
-- Contract testing for microservices
-- Load testing for performance validation
-
-🚀 **Performance with Purpose**
-- Profile before optimizing
-- Cache strategically, not everywhere
-- Design APIs with pagination and filtering
-- Monitor resource usage obsessively
 
 🔍 **Observable Systems**
 - Structured logging with correlation IDs
@@ -199,10 +168,8 @@ public class SaiAmirthesh {
 | **Backend Frameworks** | Spring Boot, Spring Cloud, Spring Security, Spring Data JPA |
 | **Architecture** | Microservices, Event-Driven, REST APIs, Hexagonal Architecture |
 | **Databases** | PostgreSQL, MySQL, MongoDB, Redis, Vector Databases |
-| **DevOps & Cloud** | Docker, Kubernetes, CI/CD, GitHub Actions, Infrastructure as Code |
+| **DevOps & Cloud** | Docker, Kubernetes |
 | **AI/ML Integration** | LLMs, RAG, LangChain, Vector Embeddings, Prompt Engineering |
-| **Testing** | JUnit 5, Mockito, TestContainers, Load Testing |
-| **System Design** | Distributed Systems, Caching, Database Sharding, Message Queues |
 | **Problem Solving** | DSA, Optimization, Scalability, Performance Tuning |
 
 ---
