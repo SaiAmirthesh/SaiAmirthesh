@@ -1,22 +1,7 @@
-```
- ███████╗ █████╗ ██╗
- ██╔════╝██╔══██╗██║
- ███████╗███████║██║
- ╚════██║██╔══██║██║
- ███████║██║  ██║██║
- ╚══════╝╚═╝  ╚═╝╚═╝
-
- █████╗ ███╗   ███╗██╗██████╗ ████████╗██╗  ██╗███████╗███████╗██╗  ██╗
-██╔══██╗████╗ ████║██║██╔══██╗╚══██╔══╝██║  ██║██╔════╝██╔════╝██║  ██║
-███████║██╔████╔██║██║██████╔╝   ██║   ███████║█████╗  ███████╗███████║
-██╔══██║██║╚██╔╝██║██║██╔══██╗   ██║   ██╔══██║██╔══╝  ╚════██║██╔══██║
-██║  ██║██║ ╚═╝ ██║██║██║  ██║   ██║   ██║  ██║███████╗███████║██║  ██║
-╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
-
-                     S A I   A M I R T H E S H
-```
-
 # Hello, I'm Sai Amirthesh! 👋  
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Backend+Engineer;Java+%7C+SpringBoot+%7C+System+Design;Building+Enterprise-Grade+Solutions;AI%2FGenAI+Explorer)](https://git.io/typing-svg)
 
 Welcome to my GitHub! I'm a **Computer Science enthusiast** passionate about **Backend Development, System Design, and Enterprise Solutions**. I specialize in building robust, scalable Java/SpringBoot applications with a focus on clean architecture and production-readiness.
@@ -33,9 +18,7 @@ public class SaiAmirthesh {
     }
 }
 ```
-
 ---
-
 # 🚀 What I'm Currently Focused On
 
 - 🏗️ **Enterprise Backend Development** with Spring Boot & Spring Cloud
