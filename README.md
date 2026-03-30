@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm a **Computer Science enthusiast** passionate about **B
 ```java
 public class SaiAmirthesh {
     private String passion = "Building enterprise-grade backend systems";
-    private String currentFocus = "Java | SpringBoot | Microservices | System Design";
+    private String currentFocus = "Java | SpringBoot | System Design";
     
     public SaiAmirthesh() {
         this.writesCleanCode();
@@ -22,8 +22,7 @@ public class SaiAmirthesh {
 # 🚀 What I'm Currently Focused On
 
 - 🏗️ **Enterprise Backend Development** with Spring Boot & Spring Cloud
-- 🤖 **AI-Powered Microservices** leveraging LLMs and RAG patterns
-- ⚙️ **Microservices Orchestration** using Docker & Kubernetes concepts
+- 🤖 **AI-Powered Applications** leveraging LLMs and RAG patterns
 - 💾 **Database Design & Optimization** (PostgreSQL, MySQL, NoSQL)
 - 🔐 **Security & Authentication** (Spring Security, JWT, OAuth2)
 
@@ -41,7 +40,7 @@ public class SaiAmirthesh {
 
 ### 2. **Looped** 
 **Gamified Habit Tracker Application**
-- **Stack**: Spring Boot, React, SupaBase, JWT Authentication
+- **Stack**: React, SupaBase
 - **Features**: Habit tracking with gamification, user streaks, progress analytics, social features
 - **Architecture**: Microservices-ready backend, RESTful APIs, real-time notifications
 - **What I learned**: Full-stack development, user engagement patterns, database design for analytics
@@ -85,15 +84,11 @@ public class SaiAmirthesh {
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL" title="MySQL" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" height="40" alt="Redis" title="Redis" />
 </div>
 
 ### Cloud & DevOps
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height="40" alt="Kubernetes" title="Kubernetes" />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" height="40" alt="Apache Kafka" title="Apache Kafka" />
   <img width="12" />
@@ -131,32 +126,9 @@ public class SaiAmirthesh {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
 </div>
 
----
-
-### What Drives My Engineering:
-
-🎯 **Correctness Over Cleverness**
-- Write code that's easy to understand and debug
-- Prioritize clarity and maintainability
-- Use meaningful variable names and small functions
-
-⚙️ **Architecture-First Thinking**
-- Design systems that scale horizontally
-- Think about failure modes before writing code
-- Embrace immutability and functional programming where applicable
-
-🔍 **Observable Systems**
-- Structured logging with correlation IDs
-- Distributed tracing (OpenTelemetry)
-- Metrics collection and alerting
-- Health checks and graceful degradation
-
----
 
 # 📊 GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=SaiAmirthesh&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SaiAmirthesh&theme=nightowl&hide_border=false)<br/>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SaiAmirthesh&theme=github-compact)](https://github.com/SaiAmirthesh/github-readme-activity-graph)
 
 ---
@@ -174,54 +146,6 @@ public class SaiAmirthesh {
 
 ---
 
-# 🎓 What I'm Learning
-
-```java
-@Scope("learning")
-public class CurrentJourney {
-    
-    private void systemDesign() {
-        // Advanced distributed systems concepts
-        // Consensus algorithms, eventual consistency
-        // Microservices patterns & anti-patterns
-    }
-    
-    private void cloudNative() {
-        // Kubernetes operators and advanced orchestration
-        // Service mesh architecture (Istio, Linkerd)
-        // Cloud-native patterns with GCP/AWS/Azure
-    }
-    
-    private void aiIntegration() {
-        // Advanced RAG implementations
-        // Fine-tuning LLMs for specific domains
-        // Agentic systems with tool use
-    }
-    
-    private void devOps() {
-        // GitOps and declarative infrastructure
-        // Advanced monitoring and observability
-        // Disaster recovery & chaos engineering
-    }
-}
-```
-
----
-
-# 🎯 My Development Philosophy
-
-> "Backend engineering is the art of building systems that work flawlessly when you're not looking. It's about anticipating edge cases, designing for failure, and writing code that speaks for itself."
-
-### Key Principles:
-
-1. **Invisible Excellence** - Users shouldn't notice the backend, but they'll definitely notice when it breaks
-2. **Fail Fast, Recover Gracefully** - Validation at boundaries, circuit breakers everywhere
-3. **Logs Tell Stories** - Good logging should let you debug issues without the debugger
-4. **Premature Optimization is Evil** - But ignoring performance is worse
-5. **Code is Communication** - The code you write is read 100x more than it's written
-
----
-
 # 🤝 Let's Connect & Collaborate
 
 I'm passionate about discussing architecture decisions, learning from others, and building amazing things together!
@@ -235,11 +159,5 @@ I'm passionate about discussing architecture decisions, learning from others, an
 
 ---
 
-
----
-
 [![](https://visitcount.itsvg.in/api?id=SaiAmirthesh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-⭐️ **If you found this helpful, please star the repo!**
-
-**Made with ☕ and passion for engineering excellence**
