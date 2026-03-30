@@ -42,8 +42,7 @@ public class SaiAmirthesh {
 **Gamified Habit Tracker Application**
 - **Stack**: React, SupaBase
 - **Features**: Habit tracking with gamification, user streaks, progress analytics, social features
-- **Architecture**: Microservices-ready backend, RESTful APIs, real-time notifications
-- **What I learned**: Full-stack development, user engagement patterns, database design for analytics
+- **What I learned**: user engagement patterns, database design for analytics
 - **Repository**: [Looped](https://github.com/SaiAmirthesh/Looped)
 
 ### 3. **Draftly** 
