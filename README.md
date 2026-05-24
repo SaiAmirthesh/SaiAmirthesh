@@ -28,41 +28,6 @@ public class SaiAmirthesh {
 
 ---
 
-# 🌟 Featured Projects
-
-### 1. **AuditChain** 
-**Blockchain-based Audit & Compliance System**
-- **Stack**: Java, Spring Boot, Hashchain,Cryptography , PostgreSQL
-- **Features**: Immutable audit trails, compliance tracking, real-time monitoring
-- **Impact**: Enterprise-ready solution for regulatory compliance
-- **What I learned**: distributed ledger concepts, audit system architecture
-- **Repository**: [AuditChain](https://github.com/SaiAmirthesh/AuditChain)
-
-### 2. **Looped** 
-**Gamified Habit Tracker Application**
-- **Stack**: React, SupaBase
-- **Features**: Habit tracking with gamification, user streaks, progress analytics, social features
-- **What I learned**: user engagement patterns, database design for analytics
-- **Repository**: [Looped](https://github.com/SaiAmirthesh/Looped)
-
-### 3. **Draftly** 
-**AI-Powered Professional Email Generator**
-- **Stack**: LangChain, Gemini API, React
-- **Features**: AI-driven email composition, tone customization, template management, batch generation
-- **Performance**: Sub-second email generation with caching strategies
-- **What I learned**: LLM integration, prompt engineering, RAG patterns, API optimization
-- **Repository**: [Draftly](https://github.com/SaiAmirthesh/Draftly)
-
-### 4. **ChatPDF** 
-**Intelligent PDF Interaction System**
-- **Stack**: Python, Vector Databases, LLMs, React
-- **Features**: PDF parsing, semantic search, conversational Q&A, document analysis
-- **Tech Highlights**: RAG implementation, vector embeddings, context-aware responses
-- **What I learned**: PDF processing, vector databases, LLM prompt optimization, chunking strategies
-- **Repository**: [ChatPDF](https://github.com/SaiAmirthesh/ChatPDF)
-
----
-
 # 🛠️ Tech Stack
 
 ### Core Backend Technologies
@@ -129,19 +94,6 @@ public class SaiAmirthesh {
 # 📊 GitHub Statistics
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SaiAmirthesh&theme=github-compact)](https://github.com/SaiAmirthesh/github-readme-activity-graph)
-
----
-
-# 💡 Core Competencies
-
-| Category | Skills |
-|----------|--------|
-| **Backend Frameworks** | Spring Boot, Spring Cloud, Spring Security, Spring Data JPA |
-| **Architecture** | Microservices, Event-Driven, REST APIs, Hexagonal Architecture |
-| **Databases** | PostgreSQL, MySQL, MongoDB, Redis, Vector Databases |
-| **DevOps & Cloud** | Docker, Kubernetes |
-| **AI/ML Integration** | LLMs, RAG, LangChain, Vector Embeddings, Prompt Engineering |
-| **Problem Solving** | DSA, Optimization, Scalability, Performance Tuning |
 
 ---
 
