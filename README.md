@@ -30,84 +30,92 @@ public class SaiAmirthesh {
 
 # 🛠️ Tech Stack
 
-### Programming Languages
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
-  <img width="12" />  
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" height="40" alt="C" title="C" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" title="C++" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
-</div>
+<div align="center">
 
-### Core Backend Technologies
-<div align="left">
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring" title="Spring" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" height="40" alt="Spring Boot" title="Spring Boot" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" height="40" alt="Maven" title="Maven" />
-  <img width="12" />
-  <img src = "https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" height="40 alt="RestAPI" title="RestAPI" />
-  <img width="12" />
-  <img src = "https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png" height="40 alt="FastAPI" title="FastAPI" />
-  <img width="12" />
-  <img src = "https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/supabase.png" height="40 alt="Supabase" title="supabase" />
-</div>
+## 💻 Languages
 
-### Databases & Data Management
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL" title="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png" height="40" alt="Oracle" title="Oracle" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/hibernate.png" height="40" alt="Hibernate" title="Hibernate" />
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" />
+<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" />
+<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" />
+<img width="15" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/c.png" height="45" />
 
-### Cloud & DevOps
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" height="40" alt="Apache Kafka" title="Apache Kafka" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
-</div>
+## ⚙️ Backend & APIs
 
-### AI/ML & Data Science
-<div align="left">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/langchain_icon.png" height="40" alt="LangChain" title="LangChain" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" title="Jupyter" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" title="Pandas" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-learn" title="Scikit-learn" />
-    
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" />
+<img width="15" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/spring_boot.png" height="45" />
+<img width="15" />
+<img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" height="45" />
+<img width="15" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/node_js.png" height="45" />
+<img width="15" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/express.png" height="45" />
+<img width="15" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/fastapi.png" height="45" />
+<img width="15" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/rest.png" height="45" />
+<img width="15" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/swagger.png" height="45" />
 
-### Frontend & Web
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40" alt="React" title="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" height="40" alt="TypeScript" title="TypeScript" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/expo.png" height="40" alt="Expo" title="Expo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" height="40" alt="SwaggerUI" title="SwaggerUI" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/streamlit.png" height="40" alt="StreamLit" title="StreamLit" />
-</div>
 
+## 🗄️ Databases & ORM
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="45" />
+<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" />
+<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" />
+<img width="15" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/oracle.png" height="45" />
+<img width="15" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/hibernate.png" height="45" />
+<img width="15" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/supabase.png" height="45" />
+
+## 🎨 Frontend
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="45" />
+<img width="15" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="45" />
+<img width="15" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/typescript.png" height="45" />
+<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="45" />
+<img width="15" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/redux.png" height="45" />
+<img width="15" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/shadcn_ui.png" height="45" />
+<img width="15" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/expo.png" height="45" />
+
+
+## ☁️ DevOps & Messaging
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" />
+<img width="15" />
+<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" height="45" />
+<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" />
+
+
+## 🤖 AI / ML & Data
+
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/langchain_icon.png" height="45" />
+<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45" />
+<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" />
+<img width="15" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="45" />
+<img width="15" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/streamlit.png" height="45" />
+
+---
+
+</div>
 
 
 
