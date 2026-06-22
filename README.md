@@ -32,7 +32,7 @@ public class SaiAmirthesh {
 
 <div align="center">
 
-## 💻 Languages
+### 💻 Languages
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" />
 <img width="15" />
@@ -42,7 +42,7 @@ public class SaiAmirthesh {
 <img width="15" />
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/c.png" height="45" />
 
-## ⚙️ Backend & APIs
+### ⚙️ Backend & APIs
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" />
 <img width="15" />
@@ -61,7 +61,7 @@ public class SaiAmirthesh {
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/swagger.png" height="45" />
 
 
-## 🗄️ Databases & ORM
+### 🗄️ Databases & ORM
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="45" />
 <img width="15" />
@@ -75,7 +75,7 @@ public class SaiAmirthesh {
 <img width="15" />
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/supabase.png" height="45" />
 
-## 🎨 Frontend
+### 🎨 Frontend
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="45" />
 <img width="15" />
@@ -92,7 +92,8 @@ public class SaiAmirthesh {
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/expo.png" height="45" />
 
 
-## ☁️ DevOps & Messaging
+### ☁️ DevOps & Messaging
+
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" />
 <img width="15" />
@@ -101,7 +102,8 @@ public class SaiAmirthesh {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" />
 
 
-## 🤖 AI / ML & Data
+### 🤖 AI / ML & Data
+
 
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/langchain_icon.png" height="45" />
 <img width="15" />
