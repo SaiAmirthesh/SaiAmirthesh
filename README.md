@@ -1,4 +1,4 @@
-# Hello, I'm Sai Amirthesh! 👋  
+# Hello, I'm Sai Amirthesh!  
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
@@ -19,12 +19,12 @@ public class SaiAmirthesh {
 }
 ```
 ---
-# 🚀 What I'm Currently Focused On
+#  What I'm Currently Focused On
 
-- 🏗️ **Enterprise Backend Development** with Spring Boot & Spring Cloud
-- 🤖 **AI-Powered Applications** leveraging LLMs and RAG patterns
-- 💾 **Database Design & Optimization** (PostgreSQL, MySQL, NoSQL)
-- 🔐 **Security & Authentication** (Spring Security, JWT, OAuth2)
+-  **Enterprise Backend Development** with Spring Boot & Spring Cloud
+-  **AI-Powered Applications** leveraging LLMs and RAG patterns
+-  **Database Design & Optimization** (PostgreSQL, MySQL, NoSQL)
+-  **Security & Authentication** (Spring Security, JWT, OAuth2)
 
 ---
 
@@ -121,13 +121,13 @@ public class SaiAmirthesh {
 
 
 
-# 📊 GitHub Statistics
+#  GitHub Statistics
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SaiAmirthesh&theme=github-compact)](https://github.com/SaiAmirthesh/github-readme-activity-graph)
 
 ---
 
-# 🤝 Let's Connect & Collaborate
+#  Let's Connect & Collaborate
 
 I'm passionate about discussing architecture decisions, learning from others, and building amazing things together!
 
