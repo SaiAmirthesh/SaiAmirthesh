@@ -6,18 +6,6 @@
 
 Welcome to my GitHub! I'm a **Computer Science enthusiast** passionate about **Backend Development, System Design, and Enterprise Solutions**. I specialize in building robust, scalable Java/SpringBoot applications with a focus on clean architecture and production-readiness.
 
-```java
-public class SaiAmirthesh {
-    private String passion = "Building enterprise-grade backend systems";
-    private String currentFocus = "Java | SpringBoot | System Design";
-    
-    public SaiAmirthesh() {
-        this.writesCleanCode();
-        this.thinksAboutScalability();
-        this.debugsWithPurpose();
-    }
-}
-```
 ---
 #  What I'm Currently Focused On
 
