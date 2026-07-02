@@ -29,6 +29,10 @@ Welcome to my GitHub! I'm a **Computer Science enthusiast** passionate about **B
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" />
 <img width="15" />
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/c.png" height="45" />
+<img width="15" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="45" />
+<img width="15" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/typescript.png" height="45" />
 
 ### ⚙️ Backend & APIs
 
@@ -68,10 +72,6 @@ Welcome to my GitHub! I'm a **Computer Science enthusiast** passionate about **B
 ### 🎨 Frontend
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="45" />
-<img width="15" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="45" />
-<img width="15" />
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/typescript.png" height="45" />
 <img width="15" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="45" />
 <img width="15" />
