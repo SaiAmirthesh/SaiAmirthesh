@@ -52,6 +52,8 @@ public class SaiAmirthesh {
 <img width="15" />
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/node_js.png" height="45" />
 <img width="15" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nest_js.png" height="45" />
+<img width="15" />
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/express.png" height="45" />
 <img width="15" />
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/fastapi.png" height="45" />
